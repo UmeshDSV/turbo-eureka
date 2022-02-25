@@ -1,0 +1,27 @@
+{
+  "name": "turbo-eureka",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UmeshDSV/turbo-eureka.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/UmeshDSV/turbo-eureka/issues"
+  },
+  "homepage": "https://github.com/UmeshDSV/turbo-eureka#readme",
+  "dependencies": {
+    "axios": "^0.26.0",
+    "express": "^4.17.3",
+    "lodash": "^4.17.21",
+    "moment": "^2.29.1"
+  }
+}
